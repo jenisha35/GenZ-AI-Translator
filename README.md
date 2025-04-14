@@ -2,6 +2,9 @@
 
 Hold up, it's loadin'... but when it does, you get a vibe check on translations like never before! This is a GenZ-style AI translator built using the DeepSeek R1 API, React, TailwindCSS, and Framer Motion.
 
+## 🌐 Live Demo
+Check it out here 👉 [GenZ AI Translator Live](https://genz-ai-translator-ciameq3cf-jenishas-projects-ffa545b4.vercel.app)
+
 ## What's inside?
 
 - 🌐 **React** – Frontend built with love
